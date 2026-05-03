@@ -29,7 +29,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  I am <strong>NGUYEN BA ANH</strong>, a passionate <strong>Full-Stack Developer</strong> currently studying at <strong>FPT University, Vietnam</strong>. I love crafting beautiful user interfaces and building robust backend systems. My stack includes JavaScript, TypeScript, React, Next.js, NestJS, Java, and MySQL. I'm always eager to learn new technologies and collaborate on exciting projects!
+  I am <strong>NGUYEN BA ANH NGUYEN</strong>, a passionate <strong>Full-Stack Developer</strong> currently studying at <strong>FPT University, Vietnam</strong>. I love crafting beautiful user interfaces and building robust backend systems. My stack includes JavaScript, TypeScript, React, Next.js, NestJS, Java, and MySQL. I'm always eager to learn new technologies and collaborate on exciting projects!
 </p>
 
 <br/>
