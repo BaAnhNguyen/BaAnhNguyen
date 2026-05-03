@@ -29,7 +29,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  I am <strong>NGUYEN BA ANH</strong>, a passionate <strong>Full-Stack Developer</strong> currently studying at <strong>FPT University, Vietnam</strong>. I love crafting beautiful user interfaces and building robust backend systems. My stack includes JavaScript, React, Java, Spring Boot, and MySQL. I'm always eager to learn new technologies and collaborate on exciting projects!
+  I am <strong>NGUYEN BA ANH</strong>, a passionate <strong>Full-Stack Developer</strong> currently studying at <strong>FPT University, Vietnam</strong>. I love crafting beautiful user interfaces and building robust backend systems. My stack includes JavaScript, TypeScript, React, Next.js, NestJS, Java, and MySQL. I'm always eager to learn new technologies and collaborate on exciting projects!
 </p>
 
 <br/>
@@ -53,6 +53,7 @@
 
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
 </p>
 
@@ -60,17 +61,18 @@
 
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+  <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases & Tools
 
 <p>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white"></a>
-  <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1427.svg?logo=unrealengine&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
